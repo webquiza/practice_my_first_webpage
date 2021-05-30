@@ -31,6 +31,13 @@ p.author {
   color: red;
 }
 
+.unimportant {
+  color: green;
+}
+
+.highlight {
+  color: purple;
+}
 ul {
   font-size: 20px;
   line-height: 30px;
