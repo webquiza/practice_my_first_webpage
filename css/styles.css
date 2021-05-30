@@ -56,5 +56,49 @@ ul {
 
 .column {
   width: 300px;
-  float: center;
+  float: left;
+}
+
+.my-class-1 {
+  margin: 12px;
+  margin: auto;
+  border: 2px solid green;
+  padding: 4px;
+  background-color: orange;
+  width: 50%;
+}
+
+.my-class-2 {
+  margin: 12px;
+  margin: auto;
+  border: 2px solid red;
+  padding: 4px;
+  background-color: green;
+  width: 50%;
+}
+
+.my-class-3 {
+  margin: 12px;
+  border: 2px solid yellow;
+  padding: 4px;
+  background-color: grey;
+}
+
+.box1 {
+  width: 50%;
+  border: solid black;
+  border-width: 1px;
+  background-color: orange;
+  margin-bottom: 10px;
+  box-sizing: border-box;
+}
+
+.box2 {
+  width: 50%;
+  padding: 20px;
+  border: solid black;
+  border-width: 20px;
+  background-color: orange;
+  margin-bottom: 10px;
+  box-sizing: border-box;
 }
